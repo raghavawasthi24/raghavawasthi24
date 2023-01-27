@@ -27,3 +27,6 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghavawasthi24&show_icons=true&theme=dark&locale=en&layout=compact" alt="raghavawasthi24" /></td>
   </tr>
 </table>
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghavawasthi24&theme=dark" alt="raghavawasthi24" /></p>
+  </div>
