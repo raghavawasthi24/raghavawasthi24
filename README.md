@@ -1,3 +1,5 @@
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://github.com/raghavawasthi24)
+
 <h1 align="center">Hi 👋, I'm Raghav Awasthi</h1>
 <h3 align="center">Prometeo'23 Hackoverflow Winner!</h3>
 
