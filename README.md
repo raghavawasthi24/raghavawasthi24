@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raghav Awasthi</h1>
 <!-- <h3 align="center">Prometeo'23 Hackoverflow Winner!</h3> -->
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Frontend+Developer+%3A)" /> </h3>
+<!-- <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Frontend+Developer;P+%3A)" /> </h3> -->
+<h3 align="center">
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+developer;Web+Developer&center=true&width=500&height=50"></a> 
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavawasthi24&label=Profile%20views&color=0e75b6&style=flat" alt="raghavawasthi24" /> </p>
 
