@@ -5,6 +5,10 @@
    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer!;Web+Developer!;Prometeo'23+Hackoverflow+Winner!&center=true&width=500&height=50"></a> 
 </h3>
 
+<p align="center">
+    <img src="https://github.com/raghavawasthi24/raghavawasthi24/blob/main/gitartwork.svg" />
+</p>   
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavawasthi24&label=Profile%20views&color=0e75b6&style=flat" alt="raghavawasthi24" /> </p>
 
 - 🔭 I’m currently working on **Frontend Development**
