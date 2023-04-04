@@ -11,9 +11,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavawasthi24&label=Profile%20views&color=0e75b6&style=flat" alt="raghavawasthi24" /> </p>
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently working on **MERN Developer**
 
-- 🌱 I’m currently learning **React Js, Redux.**
+- 🌱 I’m currently learning **Node Js, Express Js, MongoDb, MySQL.**
 
 - 💬 Ask me about **Javascript, React Js**
 
