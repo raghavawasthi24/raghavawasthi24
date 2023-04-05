@@ -9,11 +9,8 @@
     <img src="https://github.com/raghavawasthi24/raghavawasthi24/blob/main/gitartwork.svg" />
 </p>    -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavawasthi24&label=Profile%20views&color=0e75b6&style=flat" alt="raghavawasthi24" /> </p>
 <h2> &nbsp;Visitor's Count:</h2>
 <a align="center" href="https://profile-counter.glitch.me/{raghavawasthi24}/count.svg">
-  
-  ![VisitorCount](https://profile-counter.glitch.me/{Sukriti-m}/count.svg)  
 </a>
 
 
