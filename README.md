@@ -11,7 +11,8 @@
 
 <h2> &nbsp;Visitor's Count:</h2>
 <a align="center" href="https://profile-counter.glitch.me/{raghavawasthi24}/count.svg">
-   ![VisitorCount](https://profile-counter.glitch.me/{raghavawasthi24}/count.svg)  
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{raghavawasthi24}/count.svg)  
 </a>
 
 
