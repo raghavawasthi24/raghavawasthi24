@@ -16,13 +16,13 @@
 </a>
 
 
-- 🔭 I’m currently working on **MERN Developer**
+-  I’m currently working on **MERN Developer**
 
-- 🌱 I’m currently learning **Node Js, Express Js, MongoDb, MySQL.**
+-  I’m currently learning **Node Js, Express Js, MongoDb, MySQL.**
 
-- 💬 Ask me about **Javascript, React Js**
+-  Ask me about **Javascript, React Js**
 
-- 📫 How to reach me **raghavawasthi240@gmail.com**
+-  How to reach me **raghavawasthi240@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
