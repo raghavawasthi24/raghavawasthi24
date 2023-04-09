@@ -41,7 +41,7 @@
  -->
 <h2> 🚀 &nbsp;Languages and Tools:</h2>
 <p align="left">
-<table>
+<table width="90%">
 <tr><th>Languages</th> <th>Frameworks, Platforms & Databases </th><th>Softwares</th>
   <tr>
     <td>
