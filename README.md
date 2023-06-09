@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raghav Awasthi</h1>
 
 <h3 align="center">
-   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer!;MERN+Developer!;Full+Stack+Developer;Frontend+Developer!;Backend+Developer!&center=true&width=500&height=50"></a> 
+   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer!&center=true&width=500&height=50"></a> 
 </h3>
 
 <!-- <p align="center">
