@@ -6,9 +6,7 @@
    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer!&center=true&width=500&height=50"></a> 
 </h3>
 
-<!-- <p align="center">
-    <img src="https://github.com/raghavawasthi24/raghavawasthi24/blob/main/gitartwork.svg" />
-</p>    -->
+
 
 <h2> &nbsp;Visitor's Count:</h2>
 <a align="center" href="https://profile-counter.glitch.me/{raghavawasthi24}/count.svg">
