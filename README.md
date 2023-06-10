@@ -40,6 +40,8 @@
     <a href="https://mysql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
  -->
+ 
+ [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)
 <h2> 🚀 &nbsp;Languages and Tools:</h2>
 <p align="left" width="40%">
 <table>
