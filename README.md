@@ -41,7 +41,7 @@
 </p>
  -->
  
- [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)
+<!--  [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev) -->
 <h2> 🚀 &nbsp;Languages and Tools:</h2>
 <p align="left" width="40%">
 <table>
@@ -87,6 +87,9 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="45" height="45"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" width="45" height="45"/>
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/> -->
+     <td>
+        <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+     </td>
 
    </tr> 
  
