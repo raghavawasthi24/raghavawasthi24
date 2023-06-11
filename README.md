@@ -72,17 +72,18 @@
  ## :trophy: Languages and Tools: :robot:
  
  <table>
+  <tr><th>Languages</th> <th>Frameworks, Platforms & Databases </th><th>Softwares</th>
   <tr>
     <td>
- <p>Languages</p>
+
  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
       </td>
  <td>
- <p>Frameworks</p>
+ 
  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
     </td>
  <td>
- <p>Softwares</p>
+ 
  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
  </td>
     </tr>
