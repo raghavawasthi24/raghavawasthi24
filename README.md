@@ -76,15 +76,15 @@
   <tr>
     <td>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,java,py&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,java,py&perline=4)](https://skillicons.dev)
       </td>
  <td>
  
- [![My Skills](https://skillicons.dev/icons?i=react,redux,bootstrap,materialui,nodejs,express,mongodb,threejs&perline=3)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=react,redux,bootstrap,materialui,nodejs,express,mongodb,threejs&perline=4)](https://skillicons.dev)
     </td>
  <td>
  
-[![My Skills](https://skillicons.dev/icons?i=vscode,netlify,vercel,postman,figma,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,netlify,vercel,postman,figma,flutter&perline=4)](https://skillicons.dev)
  </td>
     </tr>
   </table>
