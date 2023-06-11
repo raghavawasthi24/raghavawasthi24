@@ -35,7 +35,7 @@
 
 <!--  [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev) -->
 <h2> 🚀 &nbsp;Languages and Tools:</h2>
-<p align="left" width="40%">
+<!-- <p align="left" width="40%"> -->
 <!-- <table>
 <tr><th>Languages</th> <th>Frameworks, Platforms & Databases </th><th>Softwares</th>
   <tr>
@@ -69,7 +69,7 @@
  
 </table> -->
   <p>Languages</p>
-  <img src="https://icon.vimalverma.in/img?tool=html&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=css&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=js&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=c&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=c++&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=java&acol=gold" width="50px">
+  <img src="https://icon.vimalverma.in/img?tool=html&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=css&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=js&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=C&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=C++&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=java&acol=gold" width="50px">
 
 <p>Frameworks, Platforms & Databases </p>
 <img src="https://icon.vimalverma.in/img?tool=git&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=github&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=ubuntu&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=netlify&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=heroku&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=google_cloud&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=azure&acol=gold" width="50px">
@@ -78,7 +78,7 @@
 <img src="https://icon.vimalverma.in/img?tool=figma&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=adobe-photoshop&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=adobe-premiere-pro&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=adobe-xd&acol=gold" width="50px">
 
 
-</p>
+<!-- </p> -->
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=raghavawasthi24&show_icons=true&theme=dark&locale=en" alt="raghavawasthi24" /></td>
