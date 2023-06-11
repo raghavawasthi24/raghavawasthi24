@@ -2,7 +2,7 @@
 <h1 align="center">
   Hi
   <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="36">
-  I'm Raghav Awasthi
+    I'm Raghav Awasthi
 </h1>
 
 <h3 align="center">
@@ -22,7 +22,6 @@
     name: 'Raghav Awasthi',
     education: '2nd year CSE undergrad at Ajay Kumar Garg Engineering College, Ghaziabad',
     currentlyWorkingOn: 'Full-stack web development',
-<!--     otherSkills: ['Animation', 'Illustration', 'Graphic Designing'], -->
 }
 ```
 
