@@ -22,7 +22,7 @@
     name: 'Raghav Awasthi',
     education: '2nd year CSE undergrad at Ajay Kumar Garg Engineering College, Ghaziabad',
     currentlyWorkingOn: 'Full-stack web development',
-    connectMe: 'raghavawasthi240@gmail.com',
+    email: 'raghavawasthi240@gmail.com',
 }
 ```
 
