@@ -70,11 +70,13 @@
  
 </table> -->
  ## :trophy: Languages and Tools: :robot:
+ 
+ <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
 
-<img src="https://icon.vimalverma.in/img?tool=html&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=css&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=js&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=cpp&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=react&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=node&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=mongodb&acol=gold" width="50px">
+<!-- <img src="https://icon.vimalverma.in/img?tool=html&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=css&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=js&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=cpp&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=react&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=node&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=mongodb&acol=gold" width="50px">
 
 <img src="https://icon.vimalverma.in/img?tool=git&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=github&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=netlify&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=vercel&acol=gold" width="50px">
-
+ -->
 
 
 <!-- </p> -->
