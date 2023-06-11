@@ -68,11 +68,13 @@
    </tr> 
  
 </table> -->
-  
-  <img src="https://icon.vimalverma.in/img?tool=html&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=css&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=js&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=python&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=react&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=node&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=mongodb&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=firebase&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=flutter&acol=gold" width="50px">
+  <p>Languages</p>
+  <img src="https://icon.vimalverma.in/img?tool=html&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=css&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=js&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=c&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=c++&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=java&acol=gold" width="50px">
 
+<p>Frameworks, Platforms & Databases </p>
 <img src="https://icon.vimalverma.in/img?tool=git&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=github&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=ubuntu&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=netlify&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=heroku&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=google_cloud&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=azure&acol=gold" width="50px">
 
+<p>Softwares</p>
 <img src="https://icon.vimalverma.in/img?tool=figma&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=adobe-photoshop&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=adobe-premiere-pro&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=adobe-xd&acol=gold" width="50px">
 
 
