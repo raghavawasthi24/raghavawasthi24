@@ -1,6 +1,8 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-<h1 align="center">Hi 👋, I'm Raghav Awasthi</h1>
-
+<h1 align="center">
+  Hello there
+  <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="36">
+</h1>
 
 <h3 align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer!&center=true&width=500&height=50"></a> 
@@ -16,10 +18,10 @@
 
 ```py
 {
-    name: 'Roshan Dash',
-    education: '2nd year CSE undergrad at IIIT Bhubaneswar, India',
-    currentlyWorkingOn: 'Full-stack web development and cloud computing',
-    otherSkills: ['Animation', 'Illustration', 'Graphic Designing'],
+    name: 'Raghav Awasthi',
+    education: '2nd year CSE undergrad at Ajay Kumar Garg Engineering College, Ghaziabad',
+    currentlyWorkingOn: 'Full-stack web development',
+<!--     otherSkills: ['Animation', 'Illustration', 'Graphic Designing'], -->
 }
 ```
 
