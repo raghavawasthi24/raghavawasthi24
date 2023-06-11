@@ -71,14 +71,22 @@
 </table> -->
  ## :trophy: Languages and Tools: :robot:
  
+ <table>
+  <tr>
+    <td>
  <p>Languages</p>
  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
- 
+      </td>
+ <td>
  <p>Frameworks</p>
  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
- 
+    </td>
+ <td>
  <p>Softwares</p>
  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+ </td>
+    </tr>
+  </table>
 
 <!-- <img src="https://icon.vimalverma.in/img?tool=html&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=css&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=js&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=cpp&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=react&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=node&acol=gold" width="50px"> <img src="https://icon.vimalverma.in/img?tool=mongodb&acol=gold" width="50px">
 
