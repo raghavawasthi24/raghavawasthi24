@@ -14,14 +14,15 @@
   ![VisitorCount](https://profile-counter.glitch.me/{raghavawasthi24}/count.svg)  
 </a>
 
+```py
+{
+    name: 'Roshan Dash',
+    education: '2nd year CSE undergrad at IIIT Bhubaneswar, India',
+    currentlyWorkingOn: 'Full-stack web development and cloud computing',
+    otherSkills: ['Animation', 'Illustration', 'Graphic Designing'],
+}
+```
 
--  I’m currently working on **MERN Developer**
-
--  I’m currently learning **Node Js, Express Js, MongoDb, MySQL.**
-
--  Ask me about **Javascript, React Js**
-
--  How to reach me **raghavawasthi240@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
