@@ -74,15 +74,15 @@
  <table>
   <tr><th>Languages</th> <th>Frameworks, Platforms & Databases </th><th>Softwares</th>
   <tr>
-    <td>
+    <td align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,java,py&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,java,py&perline=3)](https://skillicons.dev)
       </td>
- <td>
+ <td align="center">
  
- [![My Skills](https://skillicons.dev/icons?i=react,redux,bootstap,materialui,nodejs,express,mongodb,threejs&perline=4)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=react,redux,bootstrap,materialui,nodejs,express,mongodb,threejs&perline=3)](https://skillicons.dev)
     </td>
- <td>
+ <td align="center">
  
 [![My Skills](https://skillicons.dev/icons?i=vscode,netlify,vercel,postman,figma,flutter&perline=3)](https://skillicons.dev)
  </td>
