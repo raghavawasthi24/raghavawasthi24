@@ -34,7 +34,7 @@
 <a href="https://instagram.com/https://www.instagram.com/raghavawasthi_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/raghavawasthi_/" height="30" width="40" /></a>
 </p>
 
-<!--  [![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev) -->
+
 <!-- <h2> 🚀 &nbsp;Languages and Tools:</h2> -->
 <!-- <p align="left" width="40%"> -->
 <!-- <table>
