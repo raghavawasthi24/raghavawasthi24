@@ -80,7 +80,7 @@
       </td>
  <td>
  
- [![My Skills](https://skillicons.dev/icons?i=react,redux,bootstrap,materialui,nodejs,express,mongodb,threejs&perline=4)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,bootstrap,materialui,nodejs,express,nestjs,sql,mongodb,threejs&perline=4)](https://skillicons.dev)
     </td>
  <td>
  
