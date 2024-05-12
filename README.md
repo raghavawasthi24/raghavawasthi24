@@ -84,7 +84,7 @@
     </td>
  <td>
  
-[![My Skills](https://skillicons.dev/icons?i=vscode,netlify,vercel,postman,figma,flutter&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,netlify,vercel,postman,figma,docker,zoho&perline=4)](https://skillicons.dev)
  </td>
     </tr>
   </table>
