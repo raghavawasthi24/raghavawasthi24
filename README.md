@@ -76,7 +76,7 @@
   <tr>
     <td>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,java,py&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js&perline=4)](https://skillicons.dev)
       </td>
  <td>
  
