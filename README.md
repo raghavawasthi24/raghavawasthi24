@@ -23,7 +23,7 @@
     name: 'Raghav Awasthi',
     education: 'Final year CSE undergrad at Ajay Kumar Garg Engineering College, Ghaziabad',
     currentlyWorkingOn: 'Devops',
-    email: 'raghavawasthi240@gmail.com',
+    email: 'raghav@techstack.management',
 }
 ```
 
