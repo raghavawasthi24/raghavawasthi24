@@ -22,7 +22,7 @@
 {
     name: 'Raghav Awasthi',
     education: 'Final year CSE undergrad at Ajay Kumar Garg Engineering College, Ghaziabad',
-    currentlyWorkingOn: 'Full Stack web development',
+    currentlyWorkingOn: 'Devops',
     email: 'raghavawasthi240@gmail.com',
 }
 ```
