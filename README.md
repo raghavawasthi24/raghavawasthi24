@@ -21,7 +21,7 @@
 ```py
 {
     name: 'Raghav Awasthi',
-    education: '3rd year CSE undergrad at Ajay Kumar Garg Engineering College, Ghaziabad',
+    education: 'Final year CSE undergrad at Ajay Kumar Garg Engineering College, Ghaziabad',
     currentlyWorkingOn: 'Full Stack web development',
     email: 'raghavawasthi240@gmail.com',
 }
