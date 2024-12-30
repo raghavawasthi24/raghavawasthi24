@@ -16,7 +16,7 @@
 <a align="center" href="https://profile-counter.glitch.me/{raghavawasthi24}/count.svg">
   
   ![VisitorCount](https://profile-counter.glitch.me/{raghavawasthi24}/count.svg)  
-</a>-->
+</a>
 
 ```py
 {
@@ -25,7 +25,7 @@
     currentlyWorkingOn: 'Devops',
     email: 'raghav@techstack.management',
 }
-```
+```-->
 
 
 <!--<h3 align="left">Connect with me:</h3>
